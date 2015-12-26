@@ -263,9 +263,9 @@ a:focus {
 
 .download-section {
     width: 100%;
-    padding: 50px 0;
+    padding: 138px
     color: #fff;
-    background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
+    background: url(../img/darknight.jpg) no-repeat center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -375,6 +375,11 @@ img::selection {
 
 img::-moz-selection {
     background: 0 0;
+}
+
+
+#contact {
+  margin-bottom: 158px;
 }
 
 body {
